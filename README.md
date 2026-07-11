@@ -89,7 +89,10 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmirhosseinKhosrobeigi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AmirhosseinKhosrobeigi&show_icons=true&theme=radical&hide_border=true" />
+
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmirhosseinKhosrobeigi&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+</p>
 
   <img height="180em" src="https://streak-stats.demolab.com?user=AmirhosseinKhosrobeigi&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
