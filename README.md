@@ -92,16 +92,12 @@
   <img src="https://ghstats.dev/api/card?username=AmirhosseinKhosrobeigi" />
 </p>
 
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmirhosseinKhosrobeigi&layout=compact&theme=radical&hide_border=true&langs_count=6" />
-</p>
-
   <img height="180em" src="https://streak-stats.demolab.com?user=AmirhosseinKhosrobeigi&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhosseinKhosrobeigi&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/languages?username=AmirhosseinKhosrobeigi" />
 </p>
-
 ## 🚀 My Projects
 
 ### 📱 Android Applications
