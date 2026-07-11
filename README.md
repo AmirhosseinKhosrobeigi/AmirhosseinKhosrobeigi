@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Amirhossein+Khosrobeigi;Android+Developer;Kotlin+Enthusiast;Open+Source+Contributor" alt="Amirhossein Khosrobeigi - Android Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Amirhossein+Khosrobeigi;Android+Developer;Backend+Developer;Kotlin+&+Python+Enthusiast" alt="Amirhossein Khosrobeigi - Android & Backend Developer" />
 </h1>
 
 <p align="center">
@@ -55,12 +55,9 @@
   <a href="https://github.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60" />
   </a>
-  <a href="https://about.gitlab.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="60" height="60" />
-  </a>
 </p>
 
-### 🌐 Web & Backend Technologies
+### 🌐 Backend Development
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
@@ -88,7 +85,7 @@
   </a>
 </p>
 
-### 🌐 Frontend Technologies
+### 🎨 Basic Frontend Knowledge
 
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank">
@@ -103,15 +100,12 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmirhosseinKhosrobeigi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="AmirhosseinKhosrobeigi - GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmirhosseinKhosrobeigi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="AmirhosseinKhosrobeigi - GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirhosseinKhosrobeigi&theme=radical&hide_border=true" alt="AmirhosseinKhosrobeigi - GitHub Streak" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirhosseinKhosrobeigi&theme=radical&hide_border=true" alt="AmirhosseinKhosrobeigi - GitHub Streak" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhosseinKhosrobeigi&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="AmirhosseinKhosrobeigi - Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhosseinKhosrobeigi&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="AmirhosseinKhosrobeigi - Top Languages" />
 </p>
 
 
@@ -151,16 +145,7 @@
 
 ---
 
-### 🌐 Web Projects
-
-#### [📄 amirhossein-reume-maker](https://github.com/AmirhosseinKhosrobeigi/amirhossein-reume-maker)
-> **A resume/portfolio builder web application**
-
-**Tech Stack:** HTML | CSS | JavaScript
-
-[![Resume Maker - GitHub](https://img.shields.io/badge/Resume_Maker-View_on_GitHub-181717?logo=github)](https://github.com/AmirhosseinKhosrobeigi/amirhossein-reume-maker)
-
----
+### 🌐 Backend Projects
 
 #### [🛒 didikala_project](https://github.com/AmirhosseinKhosrobeigi/didikala_project)
 > **E-commerce backend project inspired by Digikala**
@@ -170,6 +155,15 @@
 [![Didikala Project - GitHub](https://img.shields.io/badge/Didikala_Project-View_on_GitHub-181717?logo=github)](https://github.com/AmirhosseinKhosrobeigi/didikala_project)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)](https://www.djangoproject.com/)
+
+---
+
+#### [📄 amirhossein-reume-maker](https://github.com/AmirhosseinKhosrobeigi/amirhossein-reume-maker)
+> **A resume/portfolio builder web application**
+
+**Tech Stack:** HTML | CSS | JavaScript
+
+[![Resume Maker - GitHub](https://img.shields.io/badge/Resume_Maker-View_on_GitHub-181717?logo=github)](https://github.com/AmirhosseinKhosrobeigi/amirhossein-reume-maker)
 
 
 ## 🎯 My Learning Journey
