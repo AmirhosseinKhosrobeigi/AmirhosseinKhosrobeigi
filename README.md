@@ -97,7 +97,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ghstats.dev/api/languages?username=AmirhosseinKhosrobeigi" />
+  <img src="https://ghstats.dev/api/langs?username=AmirhosseinKhosrobeigi" alt="Top Languages" />
 </p>
 ## 🚀 My Projects
 
