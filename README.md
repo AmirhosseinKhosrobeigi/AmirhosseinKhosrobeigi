@@ -92,6 +92,7 @@
   <img src="https://ghstats.dev/api/card?username=AmirhosseinKhosrobeigi" />
 </p>
 
+<p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=AmirhosseinKhosrobeigi&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
