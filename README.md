@@ -89,7 +89,8 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AmirhosseinKhosrobeigi&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://ghstats.dev/api/card?username=AmirhosseinKhosrobeigi" />
+</p>
 
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmirhosseinKhosrobeigi&layout=compact&theme=radical&hide_border=true&langs_count=6" />
 </p>
