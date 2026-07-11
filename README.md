@@ -189,9 +189,8 @@
 ## 💬 Visitor Count
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/AmirhosseinKhosrobeigi/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=AmirhosseinKhosrobeigi&style=for-the-badge" />
 </p>
-
 
 ## ✨ Thanks for Visiting!
 
